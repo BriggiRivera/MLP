@@ -9,4 +9,4 @@ Red Neuronal MLP (desde cero), clasificación de rostros usando Wavelets
 - ir al directorio: MLP/Wavelets
 - Compilar: g++ generateFeatures.cpp -o generateFeatures -std=c++11 -O2 -L/usr/X11R6/lib -lm -lpthread -lX11 -ljpeg
 - Una vez compilado ejecutar:
---./generateFeatures < inputTraining.txt > "../MLP/Input/inputAllPeople.txt"
+- -./generateFeatures < inputTraining.txt > "../MLP/Input/inputAllPeople.txt"
