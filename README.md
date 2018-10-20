@@ -4,6 +4,7 @@ Red Neuronal MLP (desde cero), clasificación de rostros usando Wavelets
 ## 1. Instalar dependencias:
 - Numpy: pip install numpy --user
 - Pandas: pip install pandas --user
+- sudo apt-get install libjpeg-dev
 
 ## 2. Generar archivo de caracteristicas extraidas por la transformada Haar Wavelets
 - ir al directorio: MLP/Wavelets
