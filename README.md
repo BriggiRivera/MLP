@@ -1,7 +1,6 @@
 # MLP
 Red Neuronal MLP (desde cero), clasificación de rostros usando Wavelets
 
-## Instalar dependencias:
-
-- Numpy:
-pip install numpy --user
+## 1. Instalar dependencias:
+- Numpy: pip install numpy --user
+- Numpy: pip install pandas --user
