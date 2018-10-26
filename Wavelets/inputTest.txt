@@ -1,8 +1,8 @@
-1@Resources/faces/adhast/adhast.5.jpg
-1@Resources/faces/adhast/adhast.10.jpg
-1@Resources/faces/adhast/adhast.15.jpg
-1@Resources/faces/adhast/adhast.20.jpg
-2@Resources/faces/ajbake/ajbake.5.jpg
+1@Resources/faces/adhast/adhast_5.jpg
+1@Resources/faces/adhast/adhast_10.jpg
+1@Resources/faces/adhast/adhast_15.jpg
+1@Resources/faces/adhast/adhast_20.jpg
+2@Resources/faces/ajbake/ajbake_5.jpg
 2@Resources/faces/ajbake/ajbake.10.jpg
 2@Resources/faces/ajbake/ajbake.15.jpg
 2@Resources/faces/ajbake/ajbake.20.jpg

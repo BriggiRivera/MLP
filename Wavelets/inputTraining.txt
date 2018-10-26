@@ -1,4 +1,4 @@
-1@Resources/faces/adhast/adhast.1.jpg
+1@Resources/faces/adhast/adhast_1.jpg
 1@Resources/faces/adhast/adhast.2.jpg
 1@Resources/faces/adhast/adhast.3.jpg
 1@Resources/faces/adhast/adhast.4.jpg
